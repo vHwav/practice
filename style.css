@@ -1,0 +1,26 @@
+body {
+    background-color: #eeeeeea1;
+    text-align: center;
+ }
+ 
+ .run_btn {
+    cursor: pointer;
+    margin: auto;
+    display: block;
+    margin-bottom: 30px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgba(97, 218, 251, 0.514);
+ }
+ 
+ .run_btn:hover {
+    background-color: #61dafb;
+    color: white;
+ }
+ 
+ #myChart {
+    width: 80%;
+    margin: auto;
+ }
